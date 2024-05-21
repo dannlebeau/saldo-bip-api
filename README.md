@@ -1,5 +1,5 @@
 <h4> Microservicio creado con Node para obtener el balance de la tarjeta Bip!</h4>
-<p> Web Scrapping que se detalla en el archivo lib/TarjetaBip.js</p>
+<p> Los datos se obtienen desde el archivo lib/TarjetaBip.js</p>
 <hr>
 
 <h4> 📝 Instrucciones </h4>
